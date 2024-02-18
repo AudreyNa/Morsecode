@@ -1,0 +1,2 @@
+# Morsecode
+Simulates a telegram.
